@@ -1,0 +1,6 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif; /*if Outfit is not availabale use Arial or Helvetica or sans-serif*/ 
+}
